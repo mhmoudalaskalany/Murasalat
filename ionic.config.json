@@ -1,0 +1,7 @@
+{
+  "name": "Murasalat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
