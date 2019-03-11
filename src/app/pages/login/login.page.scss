@@ -1,0 +1,15 @@
+ion-content {
+  --background: url("/assets/img/bg03.jpg") no-repeat center center / cover;
+}
+ion-item {
+  --background: #ecf0f8;
+  --color: rgba(66, 59, 59, 0.671);
+  --border-radius: 20px;
+}
+ion-button {
+  --background: #ebd40a;
+}
+:root {
+    /* Set the background of the entire app */
+    --ion-margin-top: 100px;
+}
