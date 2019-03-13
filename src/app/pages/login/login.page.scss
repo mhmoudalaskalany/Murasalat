@@ -4,12 +4,13 @@ ion-content {
 ion-item {
   --background: #ecf0f8;
   --color: rgba(66, 59, 59, 0.671);
-  --border-radius: 20px;
+  --border-radius: 10px;
 }
 ion-button {
   --background: #04BFB9;
+  --border-radius: 10px;
 }
 :root {
     /* Set the background of the entire app */
-    --ion-margin-top: 100px;
+    --ion-margin-top: 150px;
 }
